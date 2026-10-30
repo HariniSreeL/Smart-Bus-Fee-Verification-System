@@ -1,0 +1,10 @@
+SMART BUS FEE VERIFICATION SYSTEM
+
+1) Install Node.js 22+.
+2) Open this folder in VS Code.
+3) Terminal 1: cd server; npm install; copy .env.example .env (PowerShell: Copy-Item .env.example .env); npm run dev
+4) Terminal 2: cd client; npm install; npm run dev
+5) Open http://localhost:5173
+6) Login: admin / admin123
+
+See README.md for features, sample data, workflow, troubleshooting and project limitations.
